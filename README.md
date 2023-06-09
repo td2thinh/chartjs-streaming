@@ -36,6 +36,10 @@ chartRef.current.data.datasets[0].data.push({
 chartRef.current.update('quiet');
 ```
 
+## Built With
+
+ReactJS, chart.js, chartjs-plugin-streaming, chartjs-plugin-zoom, react-bootstrap, Vite
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
